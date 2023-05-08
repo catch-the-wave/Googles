@@ -1,6 +1,6 @@
 ! name: Newsletters
 ! description: Search newsletters and Publishing platforms like substack
 ! public: true
-! author: Yesiguess
+! author: yesiguess
 
 $boost=1,site=substack.com
